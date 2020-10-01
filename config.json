@@ -1,25 +1,25 @@
 {
-"token": "NzM2MjMxNzUyNjM2NTYzNTU2.XxrzQA.cQdopSa7vbqtaajUOxDWzN4fESU",
-"prefix": "v!",
-"clientID": "736231752636563556",
-"clientSecret": "zRzCNNAH7t6hFjgDIfPTSiH8pcs5lx0r",
+"token": "YOUR_BOT'S_TOKEN",
+"prefix": "!",
+"clientID": "",
+"clientSecret": "",
 "secret": "",
-"callbackURL": "https://verifybots.com/auth/callback",
-"url": "https://verifybots.com",
+"callbackURL": "YOUR_DOMAIN/auth/callback",
+"url": "YOUR_DOMAIN",
 "port": "300",
-"guildID": "699813318101303307",
+"guildID": "",
 "saffGuildID": "",
-"allAdmin": "324646179134636043",
+"allAdmin": "",
 "rethink": {
 "host": "localhost",
 "port": "28015",
-"db": "verifybots"
+"db": ""
 },
 "useragent": "verifybots",
 "channels": {
-"weblogs": "736226546716639332",
+"weblogs": "",
 "staffapps": "",
-"verification_log": "736226546716639332",
+"verification_log": "",
 "err_log": "736226546716639332"
 },
 "roles": {
