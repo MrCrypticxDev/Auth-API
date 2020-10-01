@@ -1,0 +1,35 @@
+{
+"token": "NzM2MjMxNzUyNjM2NTYzNTU2.XxrzQA.cQdopSa7vbqtaajUOxDWzN4fESU",
+"prefix": "v!",
+"clientID": "736231752636563556",
+"clientSecret": "zRzCNNAH7t6hFjgDIfPTSiH8pcs5lx0r",
+"secret": "",
+"callbackURL": "https://verifybots.com/auth/callback",
+"url": "https://verifybots.com",
+"port": "300",
+"guildID": "699813318101303307",
+"saffGuildID": "",
+"allAdmin": "324646179134636043",
+"rethink": {
+"host": "localhost",
+"port": "28015",
+"db": "verifybots"
+},
+"useragent": "verifybots",
+"channels": {
+"weblogs": "736226546716639332",
+"staffapps": "",
+"verification_log": "736226546716639332",
+"err_log": "736226546716639332"
+},
+"roles": {
+"webadmin": "736226989069041736",
+"webmod": "736227281655169043",
+"webdev": "736345927450886245",
+"dev": "736228478763925727",
+"certifiedev": "736228077310574723",
+"queuebots": "736229024132497488",
+"botsapproved": "736228562864177185",
+"certifiedbots": "741242692255875083"
+}
+}
