@@ -15,7 +15,7 @@
 "port": "28015",
 "db": ""
 },
-"useragent": "verifybots",
+"useragent": "localhost",
 "channels": {
 "weblogs": "",
 "staffapps": "",
